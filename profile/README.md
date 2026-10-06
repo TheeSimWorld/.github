@@ -6,13 +6,13 @@ TheeSimWorld runs travel eSIM stores. Each one sells prepaid eSIMs that run on t
 
 - [**Local SIM Korea**](https://localsimkorea.com): a Korea eSIM on SK Telecom's own network with unlimited data, in Japanese and English.
 - [**Local SIM Japan**](https://localsimjapan.com): a Japan eSIM on SoftBank's own network, in English and Korean.
-- [**yuzu**](https://yuzusim.com): the brand behind both stores, and the place to find your eSIM again.
+- [**yuzu**](https://yuzusim.com): the brand behind both stores, and its own store for Japan, South Korea, China and Hong Kong eSIMs; the place to find your eSIM again.
 
 Both stores are opening soon, Korea first.
 
 ## Local SIM stores
 
-One store per destination, each selling that country's own networks. The stores open one by one as local supply is confirmed.
+One store per destination, each selling that country's own networks. Several domains already carry travel guides while their stores are prepared; the stores open one by one as local supply is confirmed.
 
 **Asia**
 
