@@ -57,4 +57,4 @@ A local eSIM uses the destination's own operator as its home network: the phone 
 
 ## Who we are
 
-TheeSimWorld is the team behind these stores. The seller on every store is Roamworks Limited 漫行有限公司, Hong Kong.
+TheeSimWorld is the team behind these stores. The seller on every store is Roamworks Limited, Hong Kong.
